@@ -1,3 +1,11 @@
 build/
 /tags
 /bazel-*
+
+bin/
+bin-int/
+*.lib
+*.dll
+*.tlog
+*.vcxproj.filters
+*.vcxproj
